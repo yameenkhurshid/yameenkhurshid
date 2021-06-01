@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yameenkhurshid
-- 👀 I’m interested in Artifitial Intelligence
-- 🌱 I’m currently workin on an AI system that predicts landslides
+- 👀 I’m interested in Artifitial Intelligence, Gene-Editing and Brain Computer Interfaces
+- 🌱 Currently building AI systems + diving into Gene-Editing
 - 📫 Connect with me on Twitter (@yameenkhurshid) + LinkedIn (@Yameen Khurshid)
 
 <!---
